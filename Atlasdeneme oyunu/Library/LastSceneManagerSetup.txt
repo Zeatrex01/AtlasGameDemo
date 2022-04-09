@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Atlas adventure.unity
+- path: "Assets/Men\xFC.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
